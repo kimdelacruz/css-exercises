@@ -1,11 +1,12 @@
-.same {
+.one,
+.two {
     font-size: 28px;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
 }
-#black {
-    background-color: rgb(10, 1, 10);
-    color: rgb(225, 220, 220);
+.one {
+    background-color: black;
+    color: white;
 }
-#yellow {
+.two {
     background-color: yellow;
 }
